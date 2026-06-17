@@ -1,0 +1,27 @@
+# Ambiente
+node_modules/
+.env
+.env.local
+.DS_Store
+Thumbs.db
+
+# Claude Code
+.claude/sessions/
+.claude/transcripts/
+.claude/plans/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+desktop.ini
+
+# Build
+dist/
+build/
+*.zip
+dichiarazione-extract/
