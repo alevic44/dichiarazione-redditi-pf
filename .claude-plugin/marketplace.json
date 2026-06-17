@@ -1,0 +1,17 @@
+{
+  "name": "Dichiarazione Redditi Marketplace",
+  "version": "1.0.0",
+  "owner": {
+    "name": "Alessio Vicario",
+    "email": "alessio.vicario98@gmail.com",
+    "url": "https://github.com/alevic44"
+  },
+  "plugins": [
+    {
+      "name": "dichiarazione-redditi-pf",
+      "source": "./",
+      "description": "Skill per assistenza sulla compilazione del Modello REDDITI Persone Fisiche 2026 dell'Agenzia delle Entrate italiana.",
+      "version": "1.0.0"
+    }
+  ]
+}
